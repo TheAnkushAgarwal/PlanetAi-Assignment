@@ -72,13 +72,20 @@ This application allows users to upload PDF documents and ask questions related 
    - `OPENAI_API_KEY`: Your OpenAI API key for LangChain integration.
    - Optional: Database connection string for PostgreSQL (if applicable).
 
-### Backend Setup
+### Clone Repository
 
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/TheAnkushAgarwal/PlanetAi-Assignment.git
-   cd PlanetAi-Assignment
+   ```
+
+### Backend Setup
+
+1. Change directory
+   
+   ```
+   cd backend
    ```
 
 2. Install dependencies:
