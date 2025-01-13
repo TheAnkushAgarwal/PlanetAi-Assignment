@@ -1,0 +1,48 @@
+# Backend
+/backend/.env
+/backend/uploaded_pdfs/
+*.pdf
+/backend/*.sqlite3
+/backend/*.db
+/backend/*.cache
+/backend/.mypy_cache
+/backend/.pytest_cache
+/backend/.pyre/
+.backend/__pycache__/
+
+# Frontend
+/frontend/node_modules
+/frontend/.pnp
+/frontend/.pnp.js
+/frontend/coverage
+/frontend/build
+/frontend/.DS_Store
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# General for all directories
+.DS_Store
+Thumbs.db
+*.log
+*.lock
+*.bak
+.env
+.env.*
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*~
+*.sublime-*
+*.code-workspace
+
+# System files
+*.tmp
+*.pid
+*.cache
