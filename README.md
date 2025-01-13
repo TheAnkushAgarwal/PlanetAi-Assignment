@@ -77,8 +77,8 @@ This application allows users to upload PDF documents and ask questions related 
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/TheAnkushAgarwal/PlanetAi-Assignment.git
+   cd PlanetAi-Assignment
    ```
 
 2. Install dependencies:
