@@ -4,6 +4,9 @@
 
 This application allows users to upload PDF documents and ask questions related to the content of these documents. It leverages natural language processing (NLP) with LangChain  to process questions and provide accurate answers. The application consists of a FastAPI backend and a React.js frontend, with SQLite for metadata storage and local storage for uploaded PDFs.
 
+<img width="1710" alt="Screenshot 2025-01-13 at 12 34 59 PM" src="https://github.com/user-attachments/assets/4b69ee45-9498-4c92-9a1f-bb4c22dfbeaa" />
+
+
 ---
 
 ## Features
